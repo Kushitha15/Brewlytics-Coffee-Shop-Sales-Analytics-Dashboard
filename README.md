@@ -15,8 +15,10 @@ DAX – KPI calculations
 File Format – .pbix, .sql
 
 Data Source:Data tutorials
+
 **Business Problem**
 Lack of visibility into sales trends and performance metrics makes it difficult for businesses to optimize operations and maximize revenue.
+
 **Goal of the Dashboard**
 Monitor key sales KPIs
 Identify trends and growth patterns
@@ -24,5 +26,6 @@ Analyze product and time-based performance
 Enable strategic decision-making
 
 Brewlytics demonstrates how combining SQL and Power BI can transform raw sales data into meaningful insights, enabling smarter and faster business decisions.
+
 **Dashboard Preview**
 https://github.com/Kushitha15/Brewlytics-Coffee-Shop-Sales-Analytics-Dashboard/blob/main/Snapshot%20of%20dashboard(MYSQL%26PowerBI).pdf
