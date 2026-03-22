@@ -25,3 +25,4 @@ Enable strategic decision-making
 
 Brewlytics demonstrates how combining SQL and Power BI can transform raw sales data into meaningful insights, enabling smarter and faster business decisions.
 **Dashboard Preview**
+https://github.com/Kushitha15/Brewlytics-Coffee-Shop-Sales-Analytics-Dashboard/blob/main/Snapshot%20of%20dashboard(MYSQL%26PowerBI).pdf
